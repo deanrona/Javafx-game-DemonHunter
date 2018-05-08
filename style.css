@@ -1,0 +1,238 @@
+.title {
+	-fx-padding: 5px;
+	-fx-background-color: orange;
+	-fx-font-weight: bold;
+	-fx-font-size: 130%;
+	-fx-alignment: center;
+	-fx-text-fill: red;
+	-fx-border-color: black;
+	-fx-border-width: 2px;
+	-fx-background-image: url("Asset/caveFloor.png"); 
+    -fx-background-size: cover;
+}
+
+
+
+.leftBox {
+	-fx-padding: 150px;
+	-fx-font-weight: bold;
+	-fx-font-size: 130%;
+	-fx-alignment: center;
+	-fx-text-fill: white;
+	-fx-border-color: black;
+	-fx-border-width: 2px;
+	-fx-background-image: url("Asset/caveFloor.png"); 
+    -fx-background-size: cover;
+}
+
+.ammoCount {
+	-fx-padding: 5px;
+	-fx-font-weight: bold;
+	-fx-font-size: 130%;
+	-fx-alignment: center;
+	-fx-text-fill: white;
+}
+
+.shieldName {
+	-fx-padding: 200px;
+	-fx-background-color: orange;
+	-fx-font-weight: bold;
+	-fx-font-size: 130%;
+	-fx-alignment: center;
+	-fx-text-fill: red;
+	-fx-border-color: black;
+	-fx-border-width: 2px;
+	-fx-background-image: url("Asset/soulInquirer.png"); 
+    -fx-background-size: cover;
+}
+
+.inquiry {
+	
+	-fx-background-color: #009999;
+	-fx-font-weight: bold;
+	-fx-font-size: 130%;
+	-fx-border-color: gold;
+	-fx-border-width: 2px;
+
+   
+}
+
+.instruction {
+	-fx-background-color: black;
+	-fx-font-size: 120%;
+	-fx-alignment: center;
+}
+
+.instruction2 {
+	-fx-background-color: yellow;
+	-fx-font-size: 150%;
+	-fx-alignment: center;
+	-fx-font-weight: bold;
+	-fx-text-fill: blue;
+}
+
+.instruction3 {
+	-fx-font-size: 120%;
+	-fx-text-fill: green;
+	-fx-alignment: left;
+}
+
+.scoreBoard {
+	-fx-background-color: black;
+	-fx-font-size: 120%;
+	-fx-text-fill: green;
+	-fx-alignment: center;
+}
+
+.outerBorder {
+	-fx-padding: 10px;
+	-fx-font-size: 100%;
+	-fx-background-color: black;
+}
+
+.floor {
+	-fx-padding: 5px;
+	-fx-alignment: center;
+	-fx-background-image: url("Asset/caveFloor.png"); 
+    -fx-background-size: cover;
+}
+
+.fog {
+	-fx-padding: 5px;
+	-fx-alignment: center;
+	-fx-background-image: url("Asset/caveFog.png");
+    -fx-background-size: cover;
+}
+
+.wall {
+	-fx-padding: 5px;
+	-fx-alignment: center;
+	-fx-background-image: url("Asset/caveWall.png");
+    -fx-background-size: cover;
+}
+
+.table3 {
+	-fx-padding: 5px;
+	-fx-border-width: 1px;
+	-fx-border-style: solid;
+	-fx-background-color: green;
+	-fx-text-fill: black;
+	-fx-alignment: center;
+}
+
+.hunter {
+	-fx-padding: 5px;
+	-fx-alignment: center;
+	-fx-background-image: url("Asset/Link.png");
+    -fx-background-size: cover;
+	
+	
+}
+
+
+
+.hunterUp {
+	-fx-padding: 5px;
+	-fx-alignment: center;
+	-fx-background-image: url("Asset/HunterUp.png");
+    -fx-background-size: cover;
+	
+	
+}
+
+.hunterDown {
+	-fx-padding: 5px;
+	-fx-alignment: center;
+	-fx-background-image: url("Asset/HunterDown.png");
+    -fx-background-size: cover;
+	
+	
+}
+
+.hunterRight {
+	-fx-padding: 5px;
+	-fx-alignment: center;
+	-fx-background-image: url("Asset/HunterRight.png");
+    -fx-background-size: cover;
+	
+	
+}
+
+.hunterLeft {
+	-fx-padding: 5px;
+	-fx-alignment: center;
+	-fx-background-image: url("Asset/HunterLeft.png");
+    -fx-background-size: cover;
+	
+	
+}
+
+.hunterShoot {
+	-fx-padding: 5px;
+	-fx-alignment: center;
+	-fx-background-image: url("Asset/hunterShoot.png");
+    -fx-background-size: cover;
+	
+	
+}
+
+
+.boss1 {
+	-fx-padding: 5px;
+	-fx-alignment: center;
+	-fx-background-image: url("Asset/boss1.png");
+    -fx-background-size: cover;
+	
+}
+
+.enemy1 {
+	-fx-padding: 5px;
+	-fx-alignment: center;
+	-fx-background-image: url("Asset/pixcat1.png");
+    -fx-background-size: cover;
+	
+	
+}
+
+.ammo {
+	-fx-padding: 5px;
+	-fx-alignment: center;
+	-fx-background-image: url("Asset/ammo.png");
+    -fx-background-size: cover;
+	
+	
+}
+
+.remains {
+	-fx-padding: 5px;
+	-fx-alignment: center;
+	-fx-background-image: url("Asset/remains.png");
+    -fx-background-size: cover;
+	
+}
+
+.trap {
+	-fx-padding: 5px;
+	-fx-alignment: center;
+	-fx-background-image: url("Asset/trap.png");
+    -fx-background-size: cover;
+	
+}
+
+.blueFire{
+	-fx-padding: 5px;
+	-fx-alignment: center;
+	-fx-background-image: url("Asset/blueFire.png");
+    -fx-background-size: cover;
+}
+
+.defeat1 {
+	-fx-padding: 5px;
+	-fx-alignment: center;
+	-fx-background-image: url("Asset/defeat1.png");
+    -fx-background-size: cover;
+	
+}
+
+
+
