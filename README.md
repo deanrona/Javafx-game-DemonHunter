@@ -1,6 +1,6 @@
 # Javafx-game-DemonHunter
 
-https://github.com/ponaroth/Javafx-game-DemonHunter/blob/master/54DE6D65-BC23-4E4F-ABC5-085657628E54.png
+![alt text](https://github.com/ponaroth/Javafx-game-DemonHunter/blob/master/54DE6D65-BC23-4E4F-ABC5-085657628E54.png)
 
 Summary:
 Mankind is at the brink of extinction. An elf who was adopted by human determined to
